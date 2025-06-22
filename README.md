@@ -23,6 +23,8 @@ cat about-me.txt
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyanshu-yadav-18&label=Profile%20views&color=0e75b6&style=flat" alt="Divyanshu-yadav-18" /> </p>
+
 ```sh
 # GitHub Stats
 curl github.com/Divyanshu-yadav-18/stats --theme=linux
