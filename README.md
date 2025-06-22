@@ -19,7 +19,6 @@ cat about-me.txt
 - 🗃️ Databases: **Postgres**, **MongoDB**, **Drizzle**, **Prisma**
 - 🐳 Tools: **Docker**, **Redis**, **Git**
 - 💻 Also code in: **C++**, **C**, **C#**
-- 🐧 Linux enthusiast
 - 🌱 Always learning & building cool stuff
 
 ---
