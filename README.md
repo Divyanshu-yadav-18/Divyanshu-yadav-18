@@ -38,6 +38,23 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+<h2 style="text-align: center;">👨‍💻 Repositories 👨‍💻</h2>
+<p align="center">
+  <a href="https://github.com/Divyanshu-yadav-18/Movie-App">
+    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyanshu-yadav-18&repo=Movie-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Movie-App "/>
+  </a>
+  <a href="https://github.com/Divyanshu-yadav-18/AskStack">
+    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyanshu-yadav-18&repo=AskStack&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="AskStack"/>
+  </a>
+  <a href="https://github.com/Divyanshu-yadav-18/maze-finder">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyanshu-yadav-18&repo=maze-finder&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="maze-finder" />
+  </a>
+  <a href="https://github.com/Divyanshu-yadav-18/type-racer">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyanshu-yadav-18&repo=type-racer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="type-racer" />
+  </a>
+
+  <a href="https://github.com/Divyanshu-yadav-18?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
 
 ###
 
